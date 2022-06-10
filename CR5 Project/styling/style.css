@@ -1,0 +1,25 @@
+.calendar {
+    background-image: url(../images/doggo.jpg); 
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    background-size: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.know {
+    font-family:'Courier New', Courier, monospace
+}
+
+.icons {
+
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    width: 50px;
+    height: 50px;
+    margin: 8px;
+  }
+  .btn-vaccine {
+      width: 100%;
+  }
